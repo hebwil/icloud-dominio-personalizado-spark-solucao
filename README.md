@@ -215,6 +215,10 @@ Similar behavior reported across:
 
 ---
 
+Add TL;DR with working configuration summary
+
+---
+
 ## ⚠️ Disclaimer
 
 This behavior may change in the future.
